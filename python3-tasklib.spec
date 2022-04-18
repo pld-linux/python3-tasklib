@@ -1,12 +1,12 @@
 %define		module	tasklib
 Summary:	Python Task Warrior library
 Name:		python3-%{module}
-Version:	2.3.0
-Release:	5
+Version:	2.4.3
+Release:	1
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/t/tasklib/%{module}-%{version}.tar.gz
-# Source0-md5:	4e2523982b161214551286fdbcc7fda0
+# Source0-md5:	e8ed0fb4b97b5c65c817270b743eb3f1
 URL:		https://github.com/robgolding/tasklib
 BuildRequires:	python3 >= 1:3.5
 BuildRequires:	python3-setuptools
