@@ -2,7 +2,7 @@
 Summary:	Python Task Warrior library
 Name:		python3-%{module}
 Version:	2.5.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/t/tasklib/%{module}-%{version}.tar.gz
